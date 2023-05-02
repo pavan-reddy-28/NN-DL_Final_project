@@ -1,4 +1,4 @@
-## NN-DL_Final_project
+## NN-DL_Final_project : https://docs.google.com/document/d/1gU9JW7cN29DpfnJfySQE1W99F9Zrgx43
 
 # PNEUMONIA LUNGS DISEASE PREDICTION WITH DEEP LEARNING
 
